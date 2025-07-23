@@ -52,11 +52,12 @@ PIN Change
 ✅ Important:
 
 Ensure all required JAR libraries are added properly.
-
 Verify that the database is set up correctly using banksystem.sql.
-
 MySQL server must be running before starting the app. 
 
 
- Clone the Repository
+
+
+Clone the Repository
+
    git clone https://github.com/Mohitgingale/Bank-Management-System.git
