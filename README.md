@@ -63,3 +63,13 @@ The application starts from the `Login.java` file.
    ```bash
    git clone https://github.com/Mohitgingale/Bank-Management-System.git
 
+
+
+  
+  preview
+
+   <img width="1278" height="723" alt="Screenshot 2025-07-23 231051" src="https://github.com/user-attachments/assets/d801aa37-b233-411a-86ee-3e57c19f538f" />
+   
+  <img width="1905" height="1076" alt="Screenshot 2025-07-23 231120" src="https://github.com/user-attachments/assets/02678ba2-d6d3-4a12-ac93-0521fc872f70" />
+
+
