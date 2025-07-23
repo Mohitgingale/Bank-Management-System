@@ -2,7 +2,7 @@
 Description:
 A Java-based desktop application that simulates core banking operations through an interactive GUI. The system facilitates user authentication and provides essential banking features such as balance enquiry, deposits, withdrawals (fast cash), mini statements, and PIN change.
 
-## 🚀 Features
+🚀 Features
 
 - 🔐 **User Authentication** – Secure login and registration system  
 - 💰 **Deposit & Withdrawals** – Including fast cash and real-time balance update  
@@ -25,7 +25,7 @@ A Java-based desktop application that simulates core banking operations through 
 
 ---
 
-## ▶️ How to Run
+▶️ How to Run
 Start the application from Login.java
 
 Register or log in to explore the banking features:
@@ -51,11 +51,11 @@ PIN Change
 
 ✅ Important:
 
-Ensure all required JAR libraries are added properly.
+✅Ensure all required JAR libraries are added properly.
 
-Verify that the database is set up correctly using banksystem.sql.
+✅Verify that the database is set up correctly using banksystem.sql.
 
-MySQL server must be running before starting the app. 
+✅MySQL server must be running before starting the app. 
 
 
 
