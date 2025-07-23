@@ -2,20 +2,61 @@
 Description:
 A Java-based desktop application that simulates core banking operations through an interactive GUI. The system facilitates user authentication and provides essential banking features such as balance enquiry, deposits, withdrawals (fast cash), mini statements, and PIN change.
 
-Key Features:
+## 🚀 Features
 
-User registration and login using secure authentication
+- 🔐 **User Authentication** – Secure login and registration system  
+- 💰 **Deposit & Withdrawals** – Including fast cash and real-time balance update  
+- 🧾 **Mini Statement** – Recent transactions overview  
+- 🔁 **PIN Change Module** – For improved security  
+- 🗃️ **Database Integration** – MySQL backend with JDBC connectivity  
+- 🎨 **User Interface** – Built using Java Swing and AWT  
+- 🧱 **Modular Architecture** – Clean OOP structure for scalability
 
-Deposit and withdrawal functionalities with real-time balance updates
 
-Mini statement generation
+## 🛠️ Technologies Used
 
-PIN change module for enhanced security
+| Technology     | Role                                 |
+|----------------|--------------------------------------|
+| Java           | Core development                     |
+| Swing & AWT    | GUI design                           |
+| MySQL          | Backend database                     |
+| JDBC           | Java-to-MySQL connectivity           |
+| JCalendar      | Date picker UI component             |
 
-Integrated with MySQL for backend database management
+---
 
-Designed using Java Swing and AWT for the GUI
+## ▶️ How to Run
+Start the application from Login.java
 
-Follows modular OOP principles for scalability and maintainability
+Register or log in to explore the banking features:
 
-Technologies Used: Java, Swing, AWT, MySQL, JDBC
+Balance enquiry
+
+Deposit & Withdraw (Fast Cash)
+
+Mini Statement
+
+PIN Change
+
+### ✅ Prerequisites
+
+- Java JDK 8+
+- MySQL Server
+- IDE (NetBeans / IntelliJ / Eclipse)
+- Libraries:
+  - `JCalendar.jar`
+  - `mysql-connector-java.jar`
+
+### 📁 Setup Instructions
+
+✅ Important:
+
+Ensure all required JAR libraries are added properly.
+
+Verify that the database is set up correctly using banksystem.sql.
+
+MySQL server must be running before starting the app. 
+
+
+ Clone the Repository
+   git clone https://github.com/Mohitgingale/Bank-Management-System.git
