@@ -69,6 +69,11 @@ The application starts from the `Login.java` file.
   preview
 
    <img width="1278" height="723" alt="Screenshot 2025-07-23 231051" src="https://github.com/user-attachments/assets/d801aa37-b233-411a-86ee-3e57c19f538f" />
+   <img width="1254" height="1079" alt="Screenshot 2025-07-23 231629" src="https://github.com/user-attachments/assets/6cca58fd-c2af-49cc-a632-00af69370d6c" />
+<img width="1245" height="1077" alt="Screenshot 2025-07-23 231731" src="https://github.com/user-attachments/assets/ea005e43-201d-47bd-b0e1-dda9151cc108" />
+
+
+
    
   <img width="1905" height="1076" alt="Screenshot 2025-07-23 231120" src="https://github.com/user-attachments/assets/02678ba2-d6d3-4a12-ac93-0521fc872f70" />
 
