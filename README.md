@@ -74,6 +74,25 @@ The application starts from the `Login.java` file.
   <img width="1250" height="1075" alt="Screenshot 2025-07-23 231811" src="https://github.com/user-attachments/assets/d3ca10f1-dbaf-47b9-9c65-eb38f40ac4c2" />
   <img width="1251" height="1078" alt="Screenshot 2025-07-23 231835" src="https://github.com/user-attachments/assets/278c1760-247a-4e75-9925-2f9448f92a42" />
   <img width="1905" height="1076" alt="Screenshot 2025-07-23 231120" src="https://github.com/user-attachments/assets/02678ba2-d6d3-4a12-ac93-0521fc872f70" />
+  <img width="1904" height="1067" alt="Screenshot 2025-07-23 231139" src="https://github.com/user-attachments/assets/9765779a-c748-4a63-929a-f32ab37a71f8" />
+  <img width="1895" height="1078" alt="Screenshot 2025-07-23 231951" src="https://github.com/user-attachments/assets/8cface3f-0657-49d5-ab15-83d1e747c178" />
+  <img width="1910" height="1077" alt="Screenshot 2025-07-23 231936" src="https://github.com/user-attachments/assets/06173cfa-8033-4f14-85ad-0083f3541be3" />
+  <img width="584" height="807" alt="Screenshot 2025-07-23 232024" src="https://github.com/user-attachments/assets/4b74678b-24b9-45fc-83bc-29847988f18f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
 
 
