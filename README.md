@@ -33,6 +33,14 @@ A **Java-based desktop application** that simulates core banking operations thro
 
 ---
 
+
+### 📁 Setup Instructions
+
+1. ✅ **Clone the Repository**
+   ```bash
+   git clone https://github.com/Mohitgingale/Bank-Management-System.git
+
+
 ## ▶️ How to Run
 
 🔰 **Start Point**:  
@@ -56,13 +64,6 @@ The application starts from the `Login.java` file.
   - 📦 `mysql-connector-java.jar`
 
 ---
-
-### 📁 Setup Instructions
-
-1. ✅ **Clone the Repository**
-   ```bash
-   git clone https://github.com/Mohitgingale/Bank-Management-System.git
-
 
 
   
